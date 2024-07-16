@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .heading1 {
     color: white;
     background-color: darkblue;
